@@ -1,0 +1,183 @@
+body{
+	background-image: url(../img/maxresdefault.jpg);
+	background-size: cover;
+	margin: 0;
+}
+.img{
+	width:200px;
+	margin-left: 25px;
+	height: 40px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+.yify{
+	border-bottom: 1px solid rgba(255,255,255,0.2);
+	box-shadow:rgba(255,255,255,0.2);
+
+}
+.ul{
+	float: right;
+	display: inline-block;
+	margin-right: 50px;
+}
+.ul a {
+	text-decoration: none;
+	color:#919191;
+	font-size: 15px;
+	font-family: arial;
+
+}
+.ul li{
+	padding-right:15px;
+	float:left;
+}
+.input{
+	border-radius: 20px;
+	border: 2px solid rgba(255,255,255,0.2);
+	padding: 8px;
+	width:250px;
+	margin:1px;
+	background-color: transparent;
+	color: rgba(255,255,255,0.2);
+	font-size: 15px;
+	font-weight: bold;
+}
+.input:focus {
+	outline:none; 
+}
+.heading{
+	color: white;
+	margin-top: 60px;
+	font-family: arial;
+	font-size: 45px;
+}
+.para{
+	color:#919191;
+	font-family: arial;
+	font-size:15px;
+	line-height:22px;
+
+}
+.para1{
+	color:white;
+	font-size:18px;
+	font-family: arial;
+	margin-top: 37px;
+}
+.img1{
+	height:20px;
+	width:20px;
+}
+.yify1{
+	border-bottom: 1px solid rgba(255,255,255,0.2);
+	box-shadow:rgba(255,255,255,0.2);
+	width: 90%;
+	margin: 0 auto;
+}
+.img2{
+	height: 20px;
+	width: 20px;
+	float: right;
+
+}
+.yify2, .yify3, .yify4, .yify5{
+	margin-top:30px;
+  	float:left;
+  	margin: 20px ;
+}
+.yify2 p, .yify3 p, .yify4 p, .yify5 p{
+	font-family: arial;
+	font-size: 15px;
+	color: white;
+}
+.img3{
+	border:4px solid white;
+	/*margin-right: 40px;*/
+	border-radius:15px;
+}
+.yify-wrap {
+	margin: 0 110px;
+	display:flex;
+}
+.yify2 input, .yify3 input, .yify4 input, .yify5 input{
+	background-color: transparent;
+	color: rgba(255,255,255,0.2);
+	border:none;
+	border-radius: 10px;
+	outline: none;
+}
+.yify6{
+	border:5px solid green;
+	margin: 5px 110px;
+	color: #fff;
+}
+.Warning{
+	border-bottom: 1px solid #919191;
+	width: 80%;
+	padding-bottom: 15px;
+	font-size: 35px;
+	font-family: arial;
+}
+.yify6 p{
+	font-family: arial;
+	font-size: 15px;
+	line-height: 20px;
+}
+.pyify6{
+	font-size: 10px;
+	color: green;
+}
+.p1yify6{
+	font-size: 30px;
+	color:blue;
+}
+.inputy{
+	padding:10px;
+	margin-bottom: 20px;
+	width:200px;
+	background-color: #4b9924;
+	border-radius: 5px;
+	font-weight:bold; 
+	outline: none;
+	border:transparent;
+}
+.yify7{
+	color: white;
+	font-family: arial;
+	margin-left: 60px;
+	margin-top: 60px;
+	font-size: 18px;
+    width: 300px;
+	float: left;
+	
+}
+.yify8{
+	color:rgba(255,255,255,0.2);
+	text-align: right;
+	margin-right: 80px;
+	margin-top: 60px;
+	font-size: 15px;
+	font-family: arial;
+	flex:1 100%;
+}
+.yify9{
+	border-bottom: 1px solid rgba(255,255,255,0.2);
+	padding-bottom: 20px;
+	display: flex;
+}
+.yify10 li{
+	text-align: center;
+	display: inline-block;
+}
+.yify10 a{
+	text-decoration: none;
+	color: white;
+	font-family: arial;
+	padding: 10px;
+}
+.yify10 p{
+	text-decoration: none;
+	color: white;
+	font-family:arial;
+	font-size: 15px;
+}
